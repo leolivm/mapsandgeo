@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="devradar1" src="https://i.imgur.com/7J6yHR4.jpg" width="200" heigth="416" />
+    <img alt="mapsandgeo" src="https://i.imgur.com/7J6yHR4.jpg" width="200" heigth="416" />
 </h1>
 
 <h3 align="center">
