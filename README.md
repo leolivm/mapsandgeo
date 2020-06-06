@@ -20,7 +20,7 @@
 
 ## :cold_sweat: Desafios encontrados:
 
-- API de mapas do Google Maps nativa do Android e suas dependências (geolocazação, etc).
+- API de mapas do Google Maps nativa do Android e suas dependências (geolicazação, etc).
 
 ## :computer: Tecnologias utilizadas:
 
