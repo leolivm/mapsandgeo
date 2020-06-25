@@ -32,4 +32,4 @@
 1. Clone este repositorio.
 2. `cd mapsandgeo`<br />
 3. `yarn install` para instalar as dependências.<br />
-4. `expo start` para testar em seu aparelho.<br />
+4. `expo start` ou `yarn start` para testar em seu aparelho.<br />
